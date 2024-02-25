@@ -30,5 +30,14 @@ PantryPal aims to address this challenge by providing an intuitive and user-frie
 
 <img width="1602" alt="Screenshot 2024-02-24 at 2 31 25 AM" src="https://github.com/karthiksneu/pantry-pal/assets/114313259/03789aaa-f1a1-41c7-86e1-0a1fb3a740c2">
 
+## Onboarding Screen and Login Screen
+
+<img width="865" alt="Screenshot 2024-02-24 at 7 09 04 PM" src="https://github.com/karthiksneu/pantry-pal/assets/114313259/3a44c088-1854-479c-b00c-fbd5d8b9f104">
+
+## Account Creation and Reset Password Screen
+
+<img width="901" alt="Screenshot 2024-02-24 at 7 11 26 PM" src="https://github.com/karthiksneu/pantry-pal/assets/114313259/85c9c003-dd32-491a-8edf-fcc5e7415289">
+
+
 
 
